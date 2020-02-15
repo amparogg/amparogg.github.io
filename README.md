@@ -1,4 +1,5 @@
-# rsschool-cv
- This is the repository for the course by RSS School
+# READ ME
+
+This is my repository for my personal website
 
  
