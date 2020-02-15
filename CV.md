@@ -30,12 +30,19 @@ To sum up with I think I only want to do my little bit based on my work to help 
 ## Skills
 
 * Python: Level Intermediate, more especially in Machine Learning and Data Science
+
 ** Microsoft Excel: Level advanced
+
 *** C, C++, C#: Level intermediate
+
 **** Mathematica, Matlab and Maple: Level advanced
+
 ***** HTML: Level basic
+
 ****** CSS:Level basic
+
 ******* Analytical capacity in solving new problems
+
 ******** Good mathematics skills
 
 ## Code examples
@@ -57,9 +64,13 @@ For example I had to programmed Runge Kutta, Adam's Moulton method and other num
 
  3. Python Data Science Certificate by IBM in collaboration with EDX, in this program where 5 courses:
     * Python 101 for Data Science
+
     ** Analyzing Data with Python
+
     *** Visualizing Data with Python
+
     **** Machine Learning with Python. A practical introduction
+
     ***** Data Science and Machine Learning Capstone Project.
 
  4. Web development by doing HTML CSS from Scratch by UDEMI.
