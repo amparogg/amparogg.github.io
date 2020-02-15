@@ -2,14 +2,17 @@
 
 ## Name
 
-    * *First Name*: Amparo 
-    * Last Name: Garcia Garcia
+### *First Name*: Amparo 
+
+### *Last Name*: Garcia Garcia
 
 ## Contact Info
 
-    ### *Email*: garciamparo1996@hotmail.com
-    ### *Phone Number*: +7 (960) 1622398
-    ### *Telegram*: +7 (960) 1622398
+### *Email*: garciamparo1996@hotmail.com
+
+### *Phone Number*: +7 (960) 1622398
+
+### *Telegram*: +7 (960) 1622398
 
 ### Sumary
 
