@@ -34,10 +34,36 @@ To sum up with I think I only want to do my little bit based on my work to help 
 ****** CSS:Level basic
 ******* Analytical capacity in solving new problems
 ******** Good mathematics skills
-.
-### Code examples 
-###  Experience (for a Junior Dev it means all kinds of experience: coding tests, projects from courses,
-freelance projects - wherever they had the opportunity to demonstrate skills they have.
-Also it would be awesome if you add links to source code)
-### Education (including courses, seminars, lectures, online learning)
-### English (elaborate on what kind of practice you had, if any, how long it lasted and so on)
+
+### Code examples
+
+### Experience
+
+Since I started studying my degree, I have several times to do projects in C, C++, C#, Mathematica, Python, Matlab and Maple.
+For example I had to programmed Runge Kutta, Adam's Moulton method and other numerical methods in Mathematica. Also I programmed some models for genes expression in matlab. Also I programmed a lot in Python relating to Machine Learning, a basic example can be found here:[Basic Python](https://github.com/amparogg/MachineLearning-)
+
+### Education
+
+ 1. Bachelor Degree in Mathematics by University of Salamanca (Salamanca, Spain, 2014-2018).
+
+ 2. Master in Applied Mathematics and Computation Science, taught in Russian, by University Lobachevski (Nizhniy Novgorod, Russia, 2019-2021)/
+
+ 3. Python Data Science Certificate by IBM in collaboration with EDX, in this program where 5 courses:
+    * Python 101 for Data Science
+    ** Analyzing Data with Python
+    *** Visualizing Data with Python
+    **** Machine Learning with Python. A practical introduction
+    ***** Data Science and Machine Learning Capstone Project.
+
+ 4. Web development by doing HTML CSS from Scratch by UDEMI.
+
+ 5. Master the basics of HTML5 and CSS3 Beginner Web Development by UDEMI.
+
+ 6. CAE certificate from Cambridge ESOL Examination
+
+ 7. FIRST certificate from Cambridge ESOL Examination
+
+### English
+
+I have been studying English since I was little. I have been coursing in Ramsgate and Bournemouth(Great Britain) courses of English. 
+Also I passed CAE and First Exams by Cambridge ESOL Examination, that means that I have C1 level of English (Advanced)
