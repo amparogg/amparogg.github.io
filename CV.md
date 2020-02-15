@@ -65,13 +65,13 @@ For example I had to programmed Runge Kutta, Adam's Moulton method and other num
  3. Python Data Science Certificate by IBM in collaboration with EDX, in this program where 5 courses:
     * Python 101 for Data Science
 
-    ** Analyzing Data with Python
+    * Analyzing Data with Python
 
-    *** Visualizing Data with Python
+    * Visualizing Data with Python
 
-    **** Machine Learning with Python. A practical introduction
+    * Machine Learning with Python. A practical introduction
 
-    ***** Data Science and Machine Learning Capstone Project.
+    * Data Science and Machine Learning Capstone Project.
 
  4. Web development by doing HTML CSS from Scratch by UDEMI.
 
