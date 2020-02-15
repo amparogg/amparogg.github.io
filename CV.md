@@ -14,7 +14,7 @@
 
 ### *Telegram*: +7 (960) 1622398
 
-### Sumary
+## Sumary
 
 My name is Amparo Garcia Garcia and I am from Spain. After finishing my bachelor in Mathematics at University of Salamanca in 2018, I decided to move to Russia in order to enroll at University Lobachevsky in Nizhniy Novgorod, Russia.
 I studied russian for one year and currently I am studying my first year of the master in Applied Mathematics and Computer Science, which is taught in russian. 
@@ -27,7 +27,7 @@ My goal is to become a completed mathematician with knowledge of programming lan
 
 To sum up with I think I only want to do my little bit based on my work to help development and people, because I think we all live in a world and we must try to make it better for everyone.
 
-### Skills
+## Skills
 
 * Python: Level Intermediate, more especially in Machine Learning and Data Science
 ** Microsoft Excel: Level advanced
@@ -38,14 +38,18 @@ To sum up with I think I only want to do my little bit based on my work to help 
 ******* Analytical capacity in solving new problems
 ******** Good mathematics skills
 
-### Code examples
+## Code examples
 
-### Experience
+[Basic Python](https://github.com/amparogg/MachineLearning-)
+
+If you want to know more about my codes please send me an email to the address indicated in the Contact section.
+
+## Experience
 
 Since I started studying my degree, I have several times to do projects in C, C++, C#, Mathematica, Python, Matlab and Maple.
 For example I had to programmed Runge Kutta, Adam's Moulton method and other numerical methods in Mathematica. Also I programmed some models for genes expression in matlab. Also I programmed a lot in Python relating to Machine Learning, a basic example can be found here:[Basic Python](https://github.com/amparogg/MachineLearning-)
 
-### Education
+## Education
 
  1. Bachelor Degree in Mathematics by University of Salamanca (Salamanca, Spain, 2014-2018).
 
@@ -65,6 +69,10 @@ For example I had to programmed Runge Kutta, Adam's Moulton method and other num
  6. CAE certificate from Cambridge ESOL Examination
 
  7. FIRST certificate from Cambridge ESOL Examination
+
+ 8. Russian Government Scholarship 
+
+ 9. Award in accessing University (Salamanca, Spain)
 
 ### English
 
