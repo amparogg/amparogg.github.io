@@ -2,8 +2,8 @@
 
 ## Name
 
-    ### *First Name*: Amparo 
-    ### *Last Name*: Garcia Garcia
+    * *First Name*: Amparo 
+    * Last Name: Garcia Garcia
 
 ## Contact Info
 
