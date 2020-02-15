@@ -29,14 +29,21 @@ To sum up with I think I only want to do my little bit based on my work to help 
 
 ## Skills
 
-⋅⋅⋅* Python: Level Intermediate, more especially in Machine Learning and Data Science
-⋅⋅⋅* Microsoft Excel: Level advanced
-⋅⋅⋅* C, C++, C#: Level intermediate
-⋅⋅⋅* Mathematica, Matlab and Maple: Level advanced
-⋅⋅⋅* HTML: Level basic
-⋅⋅⋅* CSS:Level basic
-⋅⋅⋅* Analytical capacity in solving new problems
-⋅⋅⋅* Good mathematics skills
+* Python: Level Intermediate, more especially in Machine Learning and Data Science
+
+* Microsoft Excel: Level advanced
+
+* C, C++, C#: Level intermediate
+
+* Mathematica, Matlab and Maple: Level advanced
+
+* HTML: Level basic
+
+* CSS:Level basic
+
+* Analytical capacity in solving new problems
+
+* Good mathematics skills
 
 ## Code examples
 
