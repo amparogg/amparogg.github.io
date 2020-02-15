@@ -17,7 +17,7 @@
 ## Sumary
 
 My name is Amparo Garcia Garcia and I am from Spain. After finishing my bachelor in Mathematics at University of Salamanca in 2018, I decided to move to Russia in order to enroll at University Lobachevsky in Nizhniy Novgorod, Russia.
-I studied russian for one year and currently I am studying my first year of the master in Applied Mathematics and Computer Science, which is taught in russian. 
+I studied russian for one year and currently I am studying my first year of the master in Applied Mathematics and Computer Science, which is taught in russian.
 
 Although my native tongue is spanish, I also can speak fluently in English as well as in Russian, and I have some knowledge of German too. My ability to learn and my hard work can be shown because I learned Russian in one year and, although I still have many things to learn in this wide language, I can follow my master classes and I manage to pass all my subjects with high marks and hard work. Also I have some knowledge in programming languages such as C, C+, C++, Python, Mathematica, Matlab, Maple..., most of them I studied by myself.
 
@@ -29,21 +29,14 @@ To sum up with I think I only want to do my little bit based on my work to help 
 
 ## Skills
 
-* Python: Level Intermediate, more especially in Machine Learning and Data Science
-
-** Microsoft Excel: Level advanced
-
-*** C, C++, C#: Level intermediate
-
-**** Mathematica, Matlab and Maple: Level advanced
-
-***** HTML: Level basic
-
-****** CSS:Level basic
-
-******* Analytical capacity in solving new problems
-
-******** Good mathematics skills
+⋅⋅⋅* Python: Level Intermediate, more especially in Machine Learning and Data Science
+⋅⋅⋅** Microsoft Excel: Level advanced
+⋅⋅⋅*** C, C++, C#: Level intermediate
+⋅⋅⋅**** Mathematica, Matlab and Maple: Level advanced
+⋅⋅⋅***** HTML: Level basic
+⋅⋅⋅****** CSS:Level basic
+⋅⋅⋅******* Analytical capacity in solving new problems
+⋅⋅⋅******** Good mathematics skills
 
 ## Code examples
 
