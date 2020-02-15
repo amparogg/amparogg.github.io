@@ -8,11 +8,11 @@
 
 ## Contact Info
 
-### *Email*: garciamparo1996@hotmail.com
+### *Email*: hfgsgfh6@hotmail.com
 
-### *Phone Number*: +7 (960) 1622398
+### *Phone Number*: 123456
 
-### *Telegram*: +7 (960) 1622398
+### *Telegram*: 123456
 
 ## Sumary
 
