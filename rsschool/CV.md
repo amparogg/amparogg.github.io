@@ -45,6 +45,14 @@ To sum up with I think I only want to do my little bit based on my work to help 
 
 * Good mathematics skills
 
+* English (advanced)
+
+* Spanish (Mother tongue)
+
+* Russian (Upper Intermediate)
+
+* German (Basic)
+
 ## Code examples
 
 [Basic Python](https://github.com/amparogg/MachineLearning-)
@@ -81,7 +89,7 @@ For example I had to programmed Runge Kutta, Adam's Moulton method and other num
 
  7. FIRST certificate from Cambridge ESOL Examination
 
- 8. Russian Government Scholarship 
+ 8. Russian Government Scholarship
 
  9. Award in accessing University (Salamanca, Spain)
 
